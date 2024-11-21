@@ -1,6 +1,6 @@
+---
+title: Главная
+---
 
-# Welcome to my website
 
-This is my first page using **Lume,** a static site generator for Deno.
-
-I hope you enjoy it.
+Демо страница статического сайта на Lume SSG
