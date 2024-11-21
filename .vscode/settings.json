@@ -1,7 +1,7 @@
 {
-    "deno.enable": true,
-    "deno.cacheOnSave": true,
-    "deno.lint": true,
-    "files.autoSaveDelay": 1000,
-    "files.autoSave": "afterDelay"
+  "deno.enable": true,
+  "deno.cacheOnSave": true,
+  "deno.lint": true,
+  "files.autoSaveDelay": 1000,
+  "files.autoSave": "afterDelay"
 }
