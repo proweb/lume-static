@@ -48,10 +48,10 @@ cms.collection({
 });
 // Collection for pages
 cms.collection({
-    name: "pages", 
-    description: "Страницы сайта",
-    store: "src:pages/*.md", 
-    fields:["title: text", "content: markdown"]
+  name: "pages",
+  description: "Статические страницы сайта",
+  store: "src:pages/*.md",
+  fields: ["title: text", "content: markdown"],
 });
 
 cms.upload("images", "src:images");
