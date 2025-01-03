@@ -2,6 +2,11 @@
   "deno.enable": true,
   "deno.cacheOnSave": true,
   "deno.lint": true,
+<<<<<<< HEAD
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000
+=======
+  "files.autoSaveDelay": 1000,
+  "files.autoSave": "afterDelay"
+>>>>>>> 435a2b617e6d1c67c657b5647dc8898bcc2e3364
 }
