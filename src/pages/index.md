@@ -1,6 +1,7 @@
+---
+title: Главная
+---
+# Пример
 
-# Welcome to my website
+Индексный документ на сайте
 
-This is my first page using **Lume,** a static site generator for Deno.
-
-I hope you enjoy it.
